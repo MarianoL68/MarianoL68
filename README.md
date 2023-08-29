@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <h1  align="center">Hello there!</h1>
+</div>
+
 <div>
-  <h1>Hello there</h1>
+  <h2>Acerca de mi:</h2>
+  <h3>Soy un programador Full Stack orientando a Back End con ganas de hacerme un camino en el mundo del desarrollo web. Como profesional mi objetivo es tener un aprendizaje constante y aplicar esos conocimientos en proyectos visibles que generen un impacto positivo en el sector. Me resulta motivante trabajar en equipo, me desarrollo bien en espacios que promuevan la colaboración. Mientras que a su vez valoro la autonomía para la realización del trabajo, con el objetivo de exprimir mi potencial. 
+  </h3>
 </div>
