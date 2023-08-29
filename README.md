@@ -4,11 +4,11 @@
 
 <div>
  <h2>Acerca de mi:</h2>
- <h3>Soy un programador Full Stack orientando a Back-end con ganas de hacerme un camino en el mundo del desarrollo web. Como profesional mi objetivo es tener un aprendizaje constante y aplicar esos conocimientos en proyectos visibles que generen un impacto positivo en el sector.</h3>
+ <h3>💻​ Soy un programador Full Stack orientando a Back-end con ganas de hacerme un camino en el mundo del desarrollo web. Como profesional mi objetivo es tener un aprendizaje constante y aplicar esos conocimientos en proyectos visibles que generen un impacto positivo en el sector.</h3>
 
- <h3> Encuentro motivación en el trabajo en equipo, ya que considero que es en la colaboración con otros donde más aprendo y me enriquezco con las experiencias de quienes me rodean. Al mismo tiempo, aprecio la autonomía en la ejecución de tareas, con el objetivo de aprovechar al máximo mi potencial.</h3>
+ <h3>🤝 ​Encuentro motivación en el trabajo en equipo, ya que considero que es en la colaboración con otros donde más aprendo y me enriquezco con las experiencias de quienes me rodean. Al mismo tiempo, aprecio la autonomía en la ejecución de tareas, con el objetivo de aprovechar al máximo mi potencial.</h3>
 
- <h3>Mi perfil se destaca por un conjunto de habilidades blandas que complementan mi enfoque en el desarrollo web. Soy una persona sociable y empática, lo que facilita mi colaboración en equipos diversos y mi capacidad para entender las necesidades de los demás. Mi perseverancia y adaptabilidad me permiten afrontar desafíos con determinación y me hace apto para adaptarme a diferentes situaciones. Poseo una escucha activa que me ayuda a comprender las perspectivas y necesidades profundamente. Aunque aún en mi proceso de crecimiento, mantengo una ética de trabajo responsable que garantiza que cada proyecto reciba la atención y dedicación necesarias.</h3>
+ <h3>👤​ Mi perfil se destaca por un conjunto de habilidades blandas que complementan mi enfoque en el desarrollo web. Soy una persona sociable y empática, lo que facilita mi colaboración en equipos diversos y mi capacidad para entender las necesidades de los demás. Mi perseverancia y adaptabilidad me permiten afrontar desafíos con determinación y me hace apto para adaptarme a diferentes situaciones. Poseo una escucha activa que me ayuda a comprender las perspectivas y necesidades profundamente. Aunque aún en mi proceso de crecimiento, mantengo una ética de trabajo responsable que garantiza que cada proyecto reciba la atención y dedicación necesarias.</h3>
 </div>
 
 <h2 align="left">Teconologías que uso:</h2>
